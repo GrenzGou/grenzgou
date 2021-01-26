@@ -13,7 +13,7 @@ ___
 ___
 
 - Github: You can see
-- Email : grenz@grenzpy.com (_Job_)
+- Email : grenz@grenzpy.com
 - Story: https://grenzgou.com
 
 
