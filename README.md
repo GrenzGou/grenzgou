@@ -1,6 +1,6 @@
 # code is fum
 
-Hi, I'm Gou shortname by **Margrenzo Gunawan**. Noob programmer since 2011, No college and no great experiences.
+Hi, I'm Gou shortname by **Margrenzo Gunawan**. Noob programmer since 2010, No college and no great experiences.
 
 ___
 | Language  | For      | 
