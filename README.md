@@ -15,6 +15,3 @@ ___
 - Github: You can see
 - Email : grenz@grenzpy.com
 - Story: https://grenzgou.com
-
-
-https://img.icons8.com/officel/2x/php-logo.png
