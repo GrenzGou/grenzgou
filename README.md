@@ -7,7 +7,7 @@ ___
 | :---------: |-------------|
 | ![Ruby](https://img.icons8.com/color/0.5x/ruby-programming-language.png "Ruby")| Business Controller |
 | ![Python](https://img.icons8.com/color/0.5x/python.png "Python")    | Backend Service      |
-| ![Golang](https://img.icons8.com/color/0.5x/goalng.png "Python")    | Playground     |
+| ![Golang](https://img.icons8.com/color/0.5x/golang.png "Golang")    | Playground     |
 | ![php](https://img.icons8.com/officel/0.5x/php-logo.png "PHP")       | Fighter      |
 | ![Kotlin](https://img.icons8.com/color/0.5x/kotlin.png "Kotlin")    | APP      |
 
