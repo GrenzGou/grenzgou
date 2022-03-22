@@ -15,6 +15,5 @@ ___
 
 - Github: You can see
 - Email : grenz@grenzpy.com
-- Story: https://grenzgou.com
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=grenzgou.visitor-badge)
